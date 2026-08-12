@@ -4,7 +4,7 @@
 
 <h2 data-importer="text" align="left">Hi 👋! My name is Huhhuu</h2>
 
-<p data-importer="text" align="left">I'm a 3rd-year student currently focusing on self-improvement. I've just returned to GitHub, so please bear with me if I make any mistakes!</p>
+<p data-importer="text" align="left">I'm a 4th-year student currently focusing on self-improvement. I've just returned to GitHub, so please bear with me if I make any mistakes!</p>
 
 <img data-importer="image" align="right" height="195" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpMjYwZjJremtsdXFhYzZqY2Q4cW84eHRxNnk1bmwwOG02Z2Y4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C93VmkaYCdRUGie1uG/giphy.gif" />
 
