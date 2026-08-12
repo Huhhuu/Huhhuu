@@ -9,8 +9,8 @@
 <img data-importer="image" align="right" height="195" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpMjYwZjJremtsdXFhYzZqY2Q4cW84eHRxNnk1bmwwOG02Z2Y4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C93VmkaYCdRUGie1uG/giphy.gif" />
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huhhuu&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huhhuu&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Huhhuu&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Huhhuu&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br />
@@ -43,7 +43,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Huhhuu/Huhhuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
